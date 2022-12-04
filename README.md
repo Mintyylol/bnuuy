@@ -6,3 +6,4 @@
   
 here's the link: https://drive.google.com/drive/folders/14Gt5F-si8GTTecKdl6HXq_gIyT-4GpuL?usp=share_link
     
+        note: please create a pull request if you would like to merge collections! i would be happy to do so!
